@@ -1,0 +1,20 @@
+{
+  "school":{
+    "Mediacollege":{
+      "category":"MBO",
+      "nr_students":22005,
+      "courses":{
+        "MD":"MediaDeveloper",
+        "GD":"GameDeveloper"
+      }
+    },
+    "HVA":{
+      "category":"HBO",
+      "nr_students":50022,
+      "courses":{
+        "SD":"SoftwareDeveloper",
+        "EE":"Electical Engineering"
+      }
+    }
+  }
+}
